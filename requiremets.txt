@@ -1,10 +1,9 @@
 streamlit
-langchain_community
-langchain_core
-langchain_huggingface
-langchain_text_splitters
-sentence-transformers
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers==2.6.1
 faiss-cpu
-ipykernel
-pypdf
-bs4
+transformers==4.41.2
+huggingface-hub==0.36.2
+torch
